@@ -26,13 +26,14 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import { colors } from './src/globels.js/colors';
 import HomeScreen from './src/screens/HomeScreen';
+import StackNavigation from './src/navigation/StackNavigation';
 
 function App(): JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
 
   const backgroundStyle = {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
-    backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
+    flex: 1
   };
 
   return (
@@ -41,7 +42,8 @@ function App(): JSX.Element {
         barStyle={isDarkMode ? 'light-content' : 'dark-content'}
         backgroundColor={colors.primary}
       />
-      <HomeScreen />
+      {/* <HomeScreen /> */}
+      <StackNavigation />
     </SafeAreaView>
   );
 }

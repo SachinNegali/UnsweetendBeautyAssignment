@@ -46,6 +46,10 @@
       "sha1": "0fcd923c13976ebcc87b40237e3c5a053a347629"
     },
     {
+      "path": "src/assets/fonts/WorkSans-Medium.ttf",
+      "sha1": "a8cf94376a573ae2c43d0457a28b4357e9808946"
+    },
+    {
       "path": "src/assets/fonts/WorkSans-SemiBold.ttf",
       "sha1": "f12114ffb09b58990f7aab420b592c3e4315ff95"
     }

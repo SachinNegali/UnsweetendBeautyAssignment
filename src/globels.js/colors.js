@@ -8,5 +8,9 @@ export const colors = {
     divider: '#D7D7D7',
     liked: '#D61437',
     black: '#000000',
-    commentBorder: '#E7E7E7'
+    commentBorder: '#E7E7E7',
+    placeHolder: '#A7A0A0',
+    modalOffset: '#000000B2',
+    link: '#3165CB',
+    modalHeader: '#0F172A'
 }

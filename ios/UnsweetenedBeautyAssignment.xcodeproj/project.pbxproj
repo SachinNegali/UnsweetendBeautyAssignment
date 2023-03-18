@@ -26,6 +26,7 @@
 		F36190A216DA41B3880F2D50 /* WorkSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD3AA377ED524473A6BF6E83 /* WorkSans-SemiBold.ttf */; };
 		5D57AE3F89A24901972F8C28 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 265083A02B534E959ED4FAC3 /* Poppins-Medium.ttf */; };
 		3D513D0DD8F74FF588CF32AD /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0BC6EBEB8F8B4B429E67B0E6 /* Inter-Regular.ttf */; };
+		3A2A6FECE0954EBFA8855DA0 /* WorkSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B98C80324D414CDEB41A0EA7 /* WorkSans-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		CD3AA377ED524473A6BF6E83 /* WorkSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "WorkSans-SemiBold.ttf"; path = "../src/assets/fonts/WorkSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		265083A02B534E959ED4FAC3 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; name = "Poppins-Medium.ttf"; path = "../src/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		0BC6EBEB8F8B4B429E67B0E6 /* Inter-Regular.ttf */ = {isa = PBXFileReference; name = "Inter-Regular.ttf"; path = "../src/assets/fonts/Inter-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B98C80324D414CDEB41A0EA7 /* WorkSans-Medium.ttf */ = {isa = PBXFileReference; name = "WorkSans-Medium.ttf"; path = "../src/assets/fonts/WorkSans-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 				CD3AA377ED524473A6BF6E83 /* WorkSans-SemiBold.ttf */,
 				265083A02B534E959ED4FAC3 /* Poppins-Medium.ttf */,
 				0BC6EBEB8F8B4B429E67B0E6 /* Inter-Regular.ttf */,
+				B98C80324D414CDEB41A0EA7 /* WorkSans-Medium.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				F36190A216DA41B3880F2D50 /* WorkSans-SemiBold.ttf in Resources */,
 				5D57AE3F89A24901972F8C28 /* Poppins-Medium.ttf in Resources */,
 				3D513D0DD8F74FF588CF32AD /* Inter-Regular.ttf in Resources */,
+				3A2A6FECE0954EBFA8855DA0 /* WorkSans-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
