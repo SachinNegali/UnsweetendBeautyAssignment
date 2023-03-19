@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
         borderRadius: 8,
         flex: 1,
         marginLeft: 6,
-        backgroundColor: colors.primary
+        backgroundColor: colors.searchBar,
     },
     input: {
         padding: 10,

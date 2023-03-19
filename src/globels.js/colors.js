@@ -1,5 +1,6 @@
 export const colors = {
     primary: '#283072',
+    searchBar: '#3c447c',
     headerFont: '#F3F4F6',
     white: '#FFFFFF',
     inputBorder: '#FFFFFF5E',
